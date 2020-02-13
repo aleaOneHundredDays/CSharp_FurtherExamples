@@ -18,3 +18,4 @@ C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.
 C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
 C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
 C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
