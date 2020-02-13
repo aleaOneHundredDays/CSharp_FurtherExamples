@@ -29,11 +29,11 @@ namespace Arrays
                 Console.WriteLine("Array value {0} at position {1}", arrayToSet.GetValue(i), i);
 
             Array arrayToSet2 = Array.CreateInstance(typeof(string), 5);
-            arrayToSet2.SetValue("ABCDEFGHI", 0);
-            arrayToSet2.SetValue("DEFGHIJKL", 1);
-            arrayToSet2.SetValue("GHIJKLMNO", 2);
-            arrayToSet2.SetValue("JKLMNOPQR", 3);
-            arrayToSet2.SetValue("MNOPQRVWX", 4);
+            arrayToSet2.SetValue("ABCDEFGHIJKL", 0);
+            arrayToSet2.SetValue("DEFGHIJKLMNO", 1);
+            arrayToSet2.SetValue("GHIJKLMNOPQR", 2);
+            arrayToSet2.SetValue("JKLMNOPQRSTU", 3);
+            arrayToSet2.SetValue("MNOPQRVWXVWX", 4);
 
             for (int i = 1; i < arrayToSet2.Length; i++)
                 Console.WriteLine("Array value {0} at position {1}", arrayToSet2.GetValue(i), i);
