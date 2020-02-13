@@ -1,0 +1,14 @@
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.exe
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.deps.json
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.json
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.runtimeconfig.dev.json
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.dll
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\ShowCase.pdb
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.dll
+C:\Users\alea\source\repos\StringLibrary\ShowCase\bin\Debug\netcoreapp3.1\StringLibrary.pdb
+C:\Users\alea\source\repos\StringLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csprojAssemblyReference.cache
+C:\Users\alea\source\repos\StringLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfoInputs.cache
+C:\Users\alea\source\repos\StringLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.AssemblyInfo.cs
+C:\Users\alea\source\repos\StringLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.csproj.CopyComplete
+C:\Users\alea\source\repos\StringLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.dll
+C:\Users\alea\source\repos\StringLibrary\ShowCase\obj\Debug\netcoreapp3.1\ShowCase.pdb

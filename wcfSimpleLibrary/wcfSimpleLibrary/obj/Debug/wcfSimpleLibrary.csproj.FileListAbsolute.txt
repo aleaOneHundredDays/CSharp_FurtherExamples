@@ -1,0 +1,6 @@
+C:\Users\alea\source\repos\wcfSimpleLibrary\wcfSimpleLibrary\bin\Debug\wcfSimpleLibrary.dll.config
+C:\Users\alea\source\repos\wcfSimpleLibrary\wcfSimpleLibrary\bin\Debug\wcfSimpleLibrary.dll
+C:\Users\alea\source\repos\wcfSimpleLibrary\wcfSimpleLibrary\bin\Debug\wcfSimpleLibrary.pdb
+C:\Users\alea\source\repos\wcfSimpleLibrary\wcfSimpleLibrary\obj\Debug\wcfSimpleLibrary.csprojAssemblyReference.cache
+C:\Users\alea\source\repos\wcfSimpleLibrary\wcfSimpleLibrary\obj\Debug\wcfSimpleLibrary.dll
+C:\Users\alea\source\repos\wcfSimpleLibrary\wcfSimpleLibrary\obj\Debug\wcfSimpleLibrary.pdb

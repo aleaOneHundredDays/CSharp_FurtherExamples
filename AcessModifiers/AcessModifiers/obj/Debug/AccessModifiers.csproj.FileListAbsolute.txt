@@ -1,0 +1,9 @@
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\bin\Debug\AccessModifiers.exe
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\bin\Debug\AccessModifiers.pdb
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\obj\Debug\AccessModifiers.Properties.Resources.resources
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\obj\Debug\AccessModifiers.csproj.GenerateResource.cache
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\obj\Debug\AccessModifiers.exe
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\obj\Debug\AccessModifiers.pdb
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\obj\Debug\AccessModifiers.Form1.resources
+C:\_Angela\_GIT_CSharp\AcessModifiers\AcessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache

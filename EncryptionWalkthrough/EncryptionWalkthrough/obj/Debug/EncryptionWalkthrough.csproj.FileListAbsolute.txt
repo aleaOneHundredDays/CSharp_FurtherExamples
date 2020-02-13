@@ -1,0 +1,9 @@
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\obj\Debug\EncryptionWalkthrough.Form1.resources
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\obj\Debug\EncryptionWalkthrough.Properties.Resources.resources
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\obj\Debug\EncryptionWalkthrough.csproj.GenerateResource.cache
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\bin\Debug\EncryptionWalkthrough.exe.config
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\bin\Debug\EncryptionWalkthrough.exe
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\bin\Debug\EncryptionWalkthrough.pdb
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\obj\Debug\EncryptionWalkthrough.exe
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\obj\Debug\EncryptionWalkthrough.pdb
+C:\_Angela\_GIT_CSharp\EncryptionWalkthrough\EncryptionWalkthrough\obj\Debug\EncryptionWalkthrough.csprojAssemblyReference.cache

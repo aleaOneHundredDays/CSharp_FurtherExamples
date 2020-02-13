@@ -1,0 +1,10 @@
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.exe
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.deps.json
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.dll
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\bin\Debug\netcoreapp3.1\Indexers.pdb
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.dll
+C:\_Angela\_GIT_CSharp\Indexers\Indexers\obj\Debug\netcoreapp3.1\Indexers.pdb

@@ -1,0 +1,10 @@
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConvertExample.exe
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConvertExample.deps.json
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConvertExample.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConvertExample.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConvertExample.dll
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConvertExample.pdb
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConvertExample.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConvertExample.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConvertExample.dll
+C:\_Angela\_GIT_CSharp\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConvertExample.pdb

@@ -1,0 +1,11 @@
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\bin\Debug\netcoreapp3.1\ClassesAndConstructors.exe
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\bin\Debug\netcoreapp3.1\ClassesAndConstructors.deps.json
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\bin\Debug\netcoreapp3.1\ClassesAndConstructors.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\bin\Debug\netcoreapp3.1\ClassesAndConstructors.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\bin\Debug\netcoreapp3.1\ClassesAndConstructors.dll
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\bin\Debug\netcoreapp3.1\ClassesAndConstructors.pdb
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\obj\Debug\netcoreapp3.1\ClassesAndConstructors.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\obj\Debug\netcoreapp3.1\ClassesAndConstructors.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\obj\Debug\netcoreapp3.1\ClassesAndConstructors.dll
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\obj\Debug\netcoreapp3.1\ClassesAndConstructors.pdb
+C:\_Angela\_GIT_CSharp\ClassesAndConstructors\ClassesAndConstructors\obj\Debug\netcoreapp3.1\ClassesAndConstructors.csprojAssemblyReference.cache

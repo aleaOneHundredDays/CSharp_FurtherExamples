@@ -1,0 +1,8 @@
+C:\Users\alea\source\repos\CodeComeExample2\obj\Debug\netcoreapp2.2\CodeComeExample2.csprojAssemblyReference.cache
+C:\Users\alea\source\repos\CodeComeExample2\obj\Debug\netcoreapp2.2\CodeComeExample2.csproj.CoreCompileInputs.cache
+C:\Users\alea\source\repos\CodeComeExample2\obj\Debug\netcoreapp2.2\CodeComeExample2.AssemblyInfoInputs.cache
+C:\Users\alea\source\repos\CodeComeExample2\obj\Debug\netcoreapp2.2\CodeComeExample2.AssemblyInfo.cs
+C:\Users\alea\source\repos\CodeComeExample2\bin\Debug\netcoreapp2.2\CodeComeExample2.deps.json
+C:\Users\alea\source\repos\CodeComeExample2\bin\Debug\netcoreapp2.2\CodeComeExample2.runtimeconfig.json
+C:\Users\alea\source\repos\CodeComeExample2\bin\Debug\netcoreapp2.2\CodeComeExample2.runtimeconfig.dev.json
+C:\Users\alea\source\repos\CodeComeExample2\bin\Debug\netcoreapp2.2\CodeComeExample2.dll

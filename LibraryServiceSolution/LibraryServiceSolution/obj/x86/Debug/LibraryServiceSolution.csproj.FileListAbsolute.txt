@@ -1,0 +1,17 @@
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.csprojAssemblyReference.cache
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\_LibraryServiceSolution.g.cs
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\Workflow1.g.cs
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\bin\Debug\LibraryServiceSolution.exe.config
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\bin\Debug\LibraryServiceSolution.exe
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\bin\Debug\LibraryServiceSolution.pdb
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.csproj.FileListAbsolute.txt
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.csproj.XamlPass2Flag.txt
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.dll
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.pdb
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\alea\source\repos\LibraryServiceSolution\LibraryServiceSolution\obj\x86\Debug\LibraryServiceSolution.exe

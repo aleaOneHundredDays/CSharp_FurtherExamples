@@ -1,0 +1,11 @@
+C:\_Angela\_GIT_CSharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+C:\_Angela\_GIT_CSharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+C:\_Angela\_GIT_CSharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+C:\_Angela\_GIT_CSharp\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+C:\_Angela\_GIT_CSharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+C:\_Angela\_GIT_CSharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+C:\_Angela\_GIT_CSharp\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache

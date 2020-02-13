@@ -1,0 +1,6 @@
+C:\Users\alea\source\repos\SimpleWcfService1\SimpleWcfService1\bin\SimpleWcfService1.dll.config
+C:\Users\alea\source\repos\SimpleWcfService1\SimpleWcfService1\bin\SimpleWcfService1.dll
+C:\Users\alea\source\repos\SimpleWcfService1\SimpleWcfService1\bin\SimpleWcfService1.pdb
+C:\Users\alea\source\repos\SimpleWcfService1\SimpleWcfService1\obj\Debug\SimpleWcfService1.csprojAssemblyReference.cache
+C:\Users\alea\source\repos\SimpleWcfService1\SimpleWcfService1\obj\Debug\SimpleWcfService1.dll
+C:\Users\alea\source\repos\SimpleWcfService1\SimpleWcfService1\obj\Debug\SimpleWcfService1.pdb

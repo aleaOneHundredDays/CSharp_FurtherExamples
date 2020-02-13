@@ -1,0 +1,10 @@
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.exe
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.deps.json
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.dll
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\bin\Debug\netcoreapp3.1\ThreadExample.pdb
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.dll
+C:\_Angela\_GIT_CSharp\ThreadExample\ThreadExample\obj\Debug\netcoreapp3.1\ThreadExample.pdb

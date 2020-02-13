@@ -1,0 +1,10 @@
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\bin\Debug\netcoreapp3.1\ExtentionMethodTest.exe
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\bin\Debug\netcoreapp3.1\ExtentionMethodTest.deps.json
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\bin\Debug\netcoreapp3.1\ExtentionMethodTest.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\bin\Debug\netcoreapp3.1\ExtentionMethodTest.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\bin\Debug\netcoreapp3.1\ExtentionMethodTest.dll
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\bin\Debug\netcoreapp3.1\ExtentionMethodTest.pdb
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\obj\Debug\netcoreapp3.1\ExtentionMethodTest.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\obj\Debug\netcoreapp3.1\ExtentionMethodTest.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\obj\Debug\netcoreapp3.1\ExtentionMethodTest.dll
+C:\_Angela\_GIT_CSharp\ExtentionMethodTest\ExtentionMethodTest\obj\Debug\netcoreapp3.1\ExtentionMethodTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\alea\source\repos\StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+C:\Users\alea\source\repos\StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\Users\alea\source\repos\StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\Users\alea\source\repos\StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\Users\alea\source\repos\StringHandling\StringHandling\obj\Debug\StringHandling.pdb

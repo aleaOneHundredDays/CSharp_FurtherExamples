@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ExtentionMethodTest">
+      <HintPath>..\..\ExtentionMethodTest\ExtentionMethodTest\obj\Debug\netcoreapp3.1\ExtentionMethodTest.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

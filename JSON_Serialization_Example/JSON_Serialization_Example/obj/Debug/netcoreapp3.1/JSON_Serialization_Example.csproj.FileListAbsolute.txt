@@ -1,0 +1,10 @@
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\bin\Debug\netcoreapp3.1\JSON_Serialization_Example.exe
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\bin\Debug\netcoreapp3.1\JSON_Serialization_Example.deps.json
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\bin\Debug\netcoreapp3.1\JSON_Serialization_Example.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\bin\Debug\netcoreapp3.1\JSON_Serialization_Example.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\bin\Debug\netcoreapp3.1\JSON_Serialization_Example.dll
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\bin\Debug\netcoreapp3.1\JSON_Serialization_Example.pdb
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\obj\Debug\netcoreapp3.1\JSON_Serialization_Example.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\obj\Debug\netcoreapp3.1\JSON_Serialization_Example.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\obj\Debug\netcoreapp3.1\JSON_Serialization_Example.dll
+C:\_Angela\_GIT_CSharp\JSON_Serialization_Example\JSON_Serialization_Example\obj\Debug\netcoreapp3.1\JSON_Serialization_Example.pdb

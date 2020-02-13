@@ -1,0 +1,8 @@
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.deps.json
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\bin\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.dll
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.pdb
+C:\Users\alea\source\repos\StringLibrary\StringLibrary\obj\Debug\netstandard2.0\StringLibrary.csprojAssemblyReference.cache

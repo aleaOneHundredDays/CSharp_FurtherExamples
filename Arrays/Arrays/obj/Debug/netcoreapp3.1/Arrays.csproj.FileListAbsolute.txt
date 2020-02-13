@@ -1,0 +1,10 @@
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\_Angela\_GIT_CSharp\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb

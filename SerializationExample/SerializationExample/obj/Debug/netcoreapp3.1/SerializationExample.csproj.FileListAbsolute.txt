@@ -1,0 +1,10 @@
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.exe
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.deps.json
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.runtimeconfig.json
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.runtimeconfig.dev.json
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.dll
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\bin\Debug\netcoreapp3.1\SerializationExample.pdb
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.AssemblyInfoInputs.cache
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.AssemblyInfo.cs
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.dll
+C:\Users\alea\source\repos\SerializationExample\SerializationExample\obj\Debug\netcoreapp3.1\SerializationExample.pdb

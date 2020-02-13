@@ -1,0 +1,8 @@
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\bin\Debug\RegularExpressionTester.exe.config
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\bin\Debug\RegularExpressionTester.exe
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\bin\Debug\RegularExpressionTester.pdb
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.Form1.resources
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.Properties.Resources.resources
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.csproj.GenerateResource.cache
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.exe
+C:\_Angela\_GIT_CSharp\RegularExpressionTester\RegularExpressionTester\obj\Debug\RegularExpressionTester.pdb
