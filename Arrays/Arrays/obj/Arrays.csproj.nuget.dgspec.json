@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Angela\\_GIT_CSharp\\Arrays\\Arrays\\Arrays.csproj": {}
+    "C:\\_GitHubRepos\\Arrays\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\_Angela\\_GIT_CSharp\\Arrays\\Arrays\\Arrays.csproj": {
+    "C:\\_GitHubRepos\\Arrays\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Angela\\_GIT_CSharp\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\_GitHubRepos\\Arrays\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\_Angela\\_GIT_CSharp\\Arrays\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\_GitHubRepos\\Arrays\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\alea\\.nuget\\packages\\",
-        "outputPath": "C:\\_Angela\\_GIT_CSharp\\Arrays\\Arrays\\obj\\",
+        "outputPath": "C:\\_GitHubRepos\\Arrays\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
