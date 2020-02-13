@@ -14,7 +14,6 @@ C:\_GitHubRepos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
 C:\_GitHubRepos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
 C:\_GitHubRepos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
 C:\_GitHubRepos\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
-C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
 C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
 C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
 C:\_GitHubRepos\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
